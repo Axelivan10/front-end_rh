@@ -134,8 +134,7 @@ function Contrato_pdf() {
                 <p className="mt-2">
                   b) Tener su domicilio ubicado en MONTE CAMPECHE SN MZA 83 LT 1
                   BOD 60 LOCALIDAD CANCÚN C.P. 77536 MUNICIPIO MUNICIPIO BENITO
-                  JUÁREZ, QUINTANA ROO, y numero de RFC{" "}
-                  <b style={{ backgroundColor: "yellow" }}>{data.rfc}</b>.
+                  JUÁREZ, QUINTANA ROO, y numero de RFC <b>SCS050407G49</b>.
                 </p>
                 <p className="mt-2">
                   c) Que, por diversas razones, el PATRÓN requiere contratar los
